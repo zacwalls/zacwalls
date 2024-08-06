@@ -3,10 +3,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zacwalls" alt="zacwalls" /></a> </p>
 
-- 🔭 I’m currently working on [a note taking app](https://github.com/zacwalls/bede)
-
-- 🌱 I’m currently learning **Go**
-
 - 📫 How to reach me **zwallace0790@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
